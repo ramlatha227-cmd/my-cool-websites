@@ -1,1 +1,10 @@
-# my-cool-websites
+# my-cool-websites<! DOCTYPE html>
+<html>
+<head>
+<title>my Cool Website</title>
+</head>
+<body>
+<h1>Welcome to my Website!*</h1>
+<p>How was your day?</p>
+</body>
+</html>
